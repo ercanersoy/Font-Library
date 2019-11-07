@@ -1,9 +1,9 @@
-# Font Library
+# Ercan Ersoy's Font Library
 
-Copyright 2019 Ercan Ersoy
+Copyright (C) 2019 Ercan Ersoy
 
-The font library is useful for GLCD and LED boards.
+This library is useful for GLCDs and LED boards.
 
-The font library has been created by GLCD Font Creator.
+Source files has been created by GLCD Font Creator.
 
-This font library licensed by CC0-1.0 Universal License.
+This software licensed by CC0-1.0 Universal License.
