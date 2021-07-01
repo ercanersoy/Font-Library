@@ -1,6 +1,6 @@
 # Ercan Ersoy's Font Library
 
-Copyright (C) 2019 Ercan Ersoy
+Copyright (C) 2019-2021 Ercan Ersoy
 
 This library is useful for GLCDs and LED boards.
 
