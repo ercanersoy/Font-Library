@@ -1,5 +1,8 @@
-# This font library has been created by Ercan Ersoy.
-# This font library licensed by CC0-1.0 Universal License.
+# cp857_7x7.py - CP857 7x7 font file for Python
+#
+# Copyright (c) 2019-2022 Ercan Ersoy
+# This file has been created by Ercan Ersoy.
+# This file is licensed under CC0-1.0 Universal License.
 
 cp857_7x7 = [
    0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00,
