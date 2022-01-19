@@ -1,7 +1,7 @@
 # cp857_5x7.py - CP857 5x7 font file for Python
 #
 # Copyright (c) 2019-2022 Ercan Ersoy
-# This file has been created by Ercan Ersoy.
+# This file is written by Ercan Ersoy.
 # This file is licensed under CC0-1.0 Universal License.
 
 cp857_5x7 = [
