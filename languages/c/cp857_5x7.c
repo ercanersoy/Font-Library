@@ -1,9 +1,9 @@
 /*
  * cp857_5x7.c - CP857 5x7 font file for C
  *
- * Copyright (c) 2019-2022 Ercan Ersoy
+ * Copyright (c) 2019-2024 Ercan Ersoy
  * This file is written by Ercan Ersoy.
- * This file is licensed under CC0-1.0 Universal License.
+ * This file is licensed under MIT License.
  */
 
 const unsigned short cp857_5x7[] =
